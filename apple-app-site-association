@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TAXYF33KQ.com.whoosh.controller",
+        "paths": [ "/path/to/content/*" ]
+      }
+    ]
+  }
+}
